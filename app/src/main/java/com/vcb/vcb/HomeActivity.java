@@ -64,7 +64,7 @@ import cn.jpush.android.api.JPushInterface;
 
 
 public class HomeActivity extends AppCompatActivity {
-    private String url = "http://m.vcanbuy.com/#/";
+     private String url = "http://m.vcanbuy.com/#/";
     private String hotUrl = "http://m.vcanbuy.com/#/";
     private String hotUrl2 = "https://m.vcanbuy.com/#/";
 //    private String hotUrl = "http://47.118.71.175:8081/#/";
