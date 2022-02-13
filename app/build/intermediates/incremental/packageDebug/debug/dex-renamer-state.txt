@@ -1,0 +1,4 @@
+#Sun Feb 13 22:22:52 CST 2022
+base.0=/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

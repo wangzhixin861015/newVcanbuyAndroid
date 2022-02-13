@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid11\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

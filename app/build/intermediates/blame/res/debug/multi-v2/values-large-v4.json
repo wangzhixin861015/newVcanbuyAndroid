@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid11\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        }
+    ]
+}

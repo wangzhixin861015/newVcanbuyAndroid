@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/res/values-zh/jpush_string.xml",
+                    "from": {
+                        "startLines": "4,5,3,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "163,220,109,55",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "215,269,158,104"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,166,220",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "107,161,215,269"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\src\\main\\res\\values-zh\\jpush_string.xml",
+                    "from": {
+                        "startLines": "4,5,3,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "163,220,109,55",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "215,269,158,104"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,166,220",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "107,161,215,269"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid11\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid11\\newVcanbuyAndroid\\app\\src\\main\\res\\values-zh\\jpush_string.xml",
+                    "from": {
+                        "startLines": "4,5,3,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "163,220,109,55",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "215,269,158,104"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,166,220",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "107,161,215,269"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="1f27220b47669781457de0d600849a5de0e89909">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fdb2999a05364a8f66f4985624e18e949427d4ee">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8596a3e63c3a278b28c78c0ccf7aaafd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fff2701f8450c1e929ae60a77bea0feaa7c47945">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dd1cce9b89cdb063c631ee0bb953d76b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="39eb18023267bf656e249fbb4adb1b7622b01d81">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bc604532f503fb8880061024193e799/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f6c8866428c74f1bc105549f51a10143bf18dd1f">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6cef4651dab67f306e38b0390d60a0e4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f9ed9703bb9b3863c403ec325fd54c98d3cc6381">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="962e00f091e76a82c664b25b757d95fda6d75938">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1a47b72e9e9c367b50c395b32825d755/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b192265fdb92978ad55a3ff069e9867ab79ab043">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6ae81eee1601a4216ab0aaf76eca5d74/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="335266a4ef14fb814f47a1030b685a26ec3cb59f">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.11.0/c57bae5a18147f8ae22f4da49baac875c6b6f84f/annotations-4.11.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="c57bae5a18147f8ae22f4da49baac875c6b6f84f">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/libs/jcore-android-2.4.2-google_play.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="b61fe4d30dfcf5f20a9a71debe0a40805bde2a69">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f7bf620d90bb0284458c4ccc83855cdb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="5400d6f75bfe56f16390f62d6c328c235c41b299">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e070ffae07452331bc5684734fce6831d531785c">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="6c312391063fe143fef3d09fe2cab168a2224d2f">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b3e710355c4806f5c665beb843c0768a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="8110ba5ec44be61aa96f8bd8d1c57eed0efdb7b9">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/52fc2f2210190d2bc27703c2544893ae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="c1ca9dc19b3f96bb9473a9357c1cdc38a9c5b347">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f40fb4308ec6cf0739f357bcdfa7822e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fed4556e7df28b94da719ee5bce4655da79143d5">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ec2d966fd48e0615d5f54946c5d30508/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="ffb17f0c17e0d80e4e50c813a6610d0aedc0374a">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/25c4e222e0d1b83092d9b12b7b96deb3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.3/54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e/constraintlayout-solver-1.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/339e927a390b36f1fa70459750956ee8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="6c8a419fae620631456d4ff288efd853c51fc6d9">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="db3391b29c6065214140e75eb6a1111dd5386e25">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.11.0/ed93d2e20549ad85f692d964788ec77520d78a8b/disklrucache-4.11.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="ed93d2e20549ad85f692d964788ec77520d78a8b">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/exifinterface-1.2.0.aar/0c9b33e80a4cd2288f9d52767ccfe772/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="99a01883584683a51e17b9ec33837e0e0b59974b">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/210d673a0166accd21ecb419302e0cd1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="dbd37d5312cb24b795748c576a13dce87a88e896">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/820dfc74188d384a2088aef9c8d89ac1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="2d5f14ed7ebe7420ea09aad89d2115b20fb27f30">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ece9d4e77d55f2434e3f9b9d9fcafd46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="171db58f88b067f7fb292effd82756481b042f57">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/fccb09d97b06f802c7808bac06755838/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="73214f8be35bd7a726bb072faa2b3b115b08dec0">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="cadb81bde08bac67432ce9f3997cccecffa60bca">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/250273dd1c9271ee2d0cd9e3fe3283da/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="4ded83d65b68cd7d98b6d7f6221af375799168a8">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="06d7c35b49dba074280189798a8acc18447a0f0a">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b4bf1caf432d2486584098ded00ade1f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="867f6b6a21b8459f4ec90d6c4d77ac8081e2fb90">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/libs/jpush-android-3.7.0-google_play.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="970e767b579a08f2876b9bd35f4f0708103a95ff">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/51700626ad4861ab0e747c421ca32745/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="9010b5b6c4d08280cf41486c6525dea5f3e57044">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/be42b66f23b79bb48135d9856e7ab626/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="925cbfea4e276a059eef0693a206a49ab8c7ce79">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/41681e413299838dd76cf283b9495fb4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="59f18081b78db3ab27c20b9a626bae588858584b">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/12cafeeef1ca6619aa8aadf6a1ac50b2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="aae5fb0ee6773486b5e7f2036b336ec1fc3a100d">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5ba1fadaafb5b7cd04380bcce041bc22/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="2bfcd12ac5bf4ac4e55298b5d46601a8a73b39a1">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="bb21b9a11761451b51624ac428d1f1bb5deeac38">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.2"
+        sha1="83c6da4971cadfcceffba367a34f00683afab0ad">
+        <dex dex="/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,616 @@
+-- Merging decision tree log ---
+permission#com.vcb.vcb.permission.JPUSH_MESSAGE
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:9:9-44
+	android:name
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:8:9-65
+uses-permission#com.vcb.vcb.permission.JPUSH_MESSAGE
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:12:22-78
+category#com.vcb.vcb
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:101:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:144:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:158:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:174:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:212:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:222:17-61
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:235:17-61
+	android:name
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:101:27-58
+provider#cn.jpush.android.service.DataProvider
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:129:9-133:43
+	android:process
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:133:13-40
+	android:authorities
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:131:13-64
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:130:13-65
+provider#cn.jpush.android.service.DownloadProvider
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:163:9-166:39
+	android:authorities
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:165:13-68
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:166:13-36
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:164:13-69
+meta-data#JPUSH_CHANNEL
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:252:9-254:48
+	android:value
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:254:13-45
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:253:13-41
+meta-data#JPUSH_APPKEY
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:255:9-257:47
+	android:value
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:257:13-44
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:256:13-40
+manifest
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b4bf1caf432d2486584098ded00ade1f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/exifinterface-1.2.0.aar/0c9b33e80a4cd2288f9d52767ccfe772/AndroidManifest.xml:17:1-24:12
+MERGED from [com.wang.avi:library:2.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/25c4e222e0d1b83092d9b12b7b96deb3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6cef4651dab67f306e38b0390d60a0e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/250273dd1c9271ee2d0cd9e3fe3283da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bc604532f503fb8880061024193e799/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f7bf620d90bb0284458c4ccc83855cdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/339e927a390b36f1fa70459750956ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b3e710355c4806f5c665beb843c0768a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ece9d4e77d55f2434e3f9b9d9fcafd46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8596a3e63c3a278b28c78c0ccf7aaafd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/41681e413299838dd76cf283b9495fb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/820dfc74188d384a2088aef9c8d89ac1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/be42b66f23b79bb48135d9856e7ab626/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f40fb4308ec6cf0739f357bcdfa7822e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5ba1fadaafb5b7cd04380bcce041bc22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/12cafeeef1ca6619aa8aadf6a1ac50b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/210d673a0166accd21ecb419302e0cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dd1cce9b89cdb063c631ee0bb953d76b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/fccb09d97b06f802c7808bac06755838/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1a47b72e9e9c367b50c395b32825d755/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/52fc2f2210190d2bc27703c2544893ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6ae81eee1601a4216ab0aaf76eca5d74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/51700626ad4861ab0e747c421ca32745/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ec2d966fd48e0615d5f54946c5d30508/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+	package
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:4:5-26
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:1-261:12
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:13:5-14:47
+	tools:ignore
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:13:22-81
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:16:5-91
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:16:22-88
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:18:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:25:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:27:5-67
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:11:5-67
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission-group.STORAGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:28:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:29:5-81
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:12:5-81
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:30:22-77
+uses-permission#android.permission.CHANG4E_NETWORK_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:32:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:33:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:34:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:35:5-89
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:35:22-86
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:36:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:37:5-71
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:37:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:38:5-74
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:38:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:39:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:40:22-66
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:41:5-69
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:41:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:42:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:43:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:44:5-71
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:44:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:45:5-75
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:45:22-72
+application
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:47:5-259:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/AndroidManifest.xml:10:5-20
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:14:5-17:19
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:14:5-17:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:54:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:56:9-35
+	android:label
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:52:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:50:9-43
+	android:roundIcon
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:55:9-48
+	android:largeHeap
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:53:9-33
+	android:icon
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:51:9-43
+	android:allowBackup
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:49:9-35
+	android:theme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:57:9-65
+	android:usesCleartextTraffic
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:58:9-44
+activity#com.vcb.vcb.MainActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:59:9-61:51
+	android:usesCleartextTraffic
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:60:13-41
+activity#com.vcb.vcb.HomeActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:62:9-77:20
+	android:launchMode
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:64:13-43
+	android:usesCleartextTraffic
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:65:13-48
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:63:13-41
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:69:13-76:29
+data
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:71:17-51
+	android:scheme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:71:23-47
+category#android.intent.category.DEFAULT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:73:17-75
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:73:27-73
+action#android.intent.action.VIEW
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:74:17-68
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:74:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:75:27-75
+activity#com.vcb.vcb.GuideActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:78:9-51
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:78:19-48
+activity#com.vcb.vcb.SplashActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:79:9-85:20
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:79:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:81:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:83:27-74
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:86:9-89:61
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:88:13-37
+	android:theme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:87:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:92:9-103:20
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:95:13-37
+	android:configChanges
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:94:13-63
+	android:theme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:96:13-60
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:93:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:97:13-102:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:98:17-75
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:98:25-72
+service#cn.jpush.android.service.PushService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:107:9-116:19
+	android:process
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:109:13-40
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:108:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:110:13-115:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:111:17-75
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:111:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:112:17-73
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:112:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:113:17-78
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:113:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:114:17-76
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:114:25-73
+provider#androidx.core.content.FileProvider
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:118:9-127:20
+	android:grantUriPermissions
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:122:13-47
+	android:authorities
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:120:13-59
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:121:13-37
+	tools:replace
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:123:13-48
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:119:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:124:13-126:54
+	android:resource
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:126:17-51
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:125:17-67
+service#cn.jpush.android.service.DaemonService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:137:9-146:19
+	android:enabled
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:139:13-35
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:140:13-36
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:138:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:141:13-145:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:142:17-80
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:142:25-77
+activity#cn.jpush.android.service.DActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:149:9-160:20
+	android:enabled
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:151:13-35
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:152:13-36
+	android:theme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:154:13-72
+	android:taskAffinity
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:153:13-48
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:150:13-62
+intent-filter#cn.jpush.android.intent.DActivity+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:155:13-159:29
+action#cn.jpush.android.intent.DActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:156:17-76
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:156:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:169:9-187:20
+	android:enabled
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:171:13-35
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:170:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:172:13-175:29
+	android:priority
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:172:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:173:17-94
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:173:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:176:13-179:29
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:177:17-77
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:177:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:178:17-79
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:178:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:181:13-186:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:182:17-78
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:182:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:183:17-80
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:183:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:190:9-192:40
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:192:13-37
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:191:13-66
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:195:9-197:40
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:197:13-37
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:196:13-70
+service#cn.jpush.android.service.MessagingIntentService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:200:9-83
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:200:18-80
+receiver#com.vcb.jpush.MyReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:203:9-214:20
+	android:enabled
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:205:13-35
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:204:13-52
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:206:13-213:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:207:17-79
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:207:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:208:17-83
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:208:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:209:17-88
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:209:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:210:17-86
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:210:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:211:17-77
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:211:25-74
+receiver#com.vcb.jpush.PushMessageReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:218:9-224:20
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:218:19-67
+intent-filter#cn.jpush.android.intent.RECEIVE_MESSAGE+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:219:13-223:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:220:17-82
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:220:25-79
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:227:9-237:20
+	android:exported
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:229:13-37
+	android:theme
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:231:13-72
+	android:taskAffinity
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:230:13-48
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:228:13-68
+intent-filter#cn.jpush.android.intent.JNotifyActivity+com.vcb.vcb
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:232:13-236:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:233:17-82
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:233:25-79
+service#com.vcb.jpush.PushService
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:242:9-248:19
+	android:process
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:244:13-40
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:243:13-53
+intent-filter#cn.jiguang.user.service.action
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:245:13-247:29
+action#cn.jiguang.user.service.action
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:246:17-73
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:246:25-70
+receiver#cn.jpush.android.asus.AsusPushMessageReceiver
+ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:250:9-82
+	android:name
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml:250:19-79
+uses-sdk
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/049d07bdfcb176ba007c8ff5abdb67bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.11.0.aar/ab270caeee90723dfea5158de316a260/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b4bf1caf432d2486584098ded00ade1f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b4bf1caf432d2486584098ded00ade1f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/exifinterface-1.2.0.aar/0c9b33e80a4cd2288f9d52767ccfe772/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/exifinterface-1.2.0.aar/0c9b33e80a4cd2288f9d52767ccfe772/AndroidManifest.xml:20:5-22:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/25c4e222e0d1b83092d9b12b7b96deb3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/mac/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/25c4e222e0d1b83092d9b12b7b96deb3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/okhttputils-2.0.0.aar/a0035fd2f1b8dae40383db928c60bfa9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6cef4651dab67f306e38b0390d60a0e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6cef4651dab67f306e38b0390d60a0e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/250273dd1c9271ee2d0cd9e3fe3283da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/250273dd1c9271ee2d0cd9e3fe3283da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bc604532f503fb8880061024193e799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bc604532f503fb8880061024193e799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f7bf620d90bb0284458c4ccc83855cdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f7bf620d90bb0284458c4ccc83855cdb/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.11.0.aar/b551f010c191a35ad484702877a876b8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/339e927a390b36f1fa70459750956ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/339e927a390b36f1fa70459750956ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b3e710355c4806f5c665beb843c0768a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b3e710355c4806f5c665beb843c0768a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ece9d4e77d55f2434e3f9b9d9fcafd46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ece9d4e77d55f2434e3f9b9d9fcafd46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8596a3e63c3a278b28c78c0ccf7aaafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8596a3e63c3a278b28c78c0ccf7aaafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/41681e413299838dd76cf283b9495fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/41681e413299838dd76cf283b9495fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/820dfc74188d384a2088aef9c8d89ac1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/820dfc74188d384a2088aef9c8d89ac1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/be42b66f23b79bb48135d9856e7ab626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/be42b66f23b79bb48135d9856e7ab626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f40fb4308ec6cf0739f357bcdfa7822e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f40fb4308ec6cf0739f357bcdfa7822e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5ba1fadaafb5b7cd04380bcce041bc22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5ba1fadaafb5b7cd04380bcce041bc22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/12cafeeef1ca6619aa8aadf6a1ac50b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/12cafeeef1ca6619aa8aadf6a1ac50b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/210d673a0166accd21ecb419302e0cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/210d673a0166accd21ecb419302e0cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dd1cce9b89cdb063c631ee0bb953d76b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dd1cce9b89cdb063c631ee0bb953d76b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/fccb09d97b06f802c7808bac06755838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/fccb09d97b06f802c7808bac06755838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1a47b72e9e9c367b50c395b32825d755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1a47b72e9e9c367b50c395b32825d755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/52fc2f2210190d2bc27703c2544893ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/52fc2f2210190d2bc27703c2544893ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6ae81eee1601a4216ab0aaf76eca5d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6ae81eee1601a4216ab0aaf76eca5d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/51700626ad4861ab0e747c421ca32745/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/51700626ad4861ab0e747c421ca32745/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ec2d966fd48e0615d5f54946c5d30508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ec2d966fd48e0615d5f54946c5d30508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/41c519af23751b602746885ebd3fdaca/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/src/main/AndroidManifest.xml
