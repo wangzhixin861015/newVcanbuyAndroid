@@ -7,8 +7,8 @@ android {
         applicationId "com.vcb.vcb"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 1910161627
-        versionName "1.2.7"
+        versionCode 1910161628
+        versionName "1.2.8"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
                 JPUSH_APPKEY : "02e2b048e74a6dc0a6eb5d99",//值来自开发者平台取得的AppKey

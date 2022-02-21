@@ -580,7 +580,7 @@ public class HomeActivity extends AppCompatActivity {
             if (result == null) {
                 // 看是否从相机返回
                 File cameraFile = new File(mCameraFilePath);
-                if (cameraFile.exists()) {
+                if (cameraFile!=null&&cameraFile.exists()) {
                     result = Uri.fromFile(cameraFile);
                     sendBroadcast(new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, result));
                 }
