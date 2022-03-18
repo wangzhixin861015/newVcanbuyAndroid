@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Feb 13 22:22:52 CST 2022
+#Sun Feb 27 11:33:56 CST 2022
 7.path=lib/x86/libjcore242.so
 2.base=/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/transforms/mergeJniLibs/debug/0
 5.set=NATIVE_RESOURCE

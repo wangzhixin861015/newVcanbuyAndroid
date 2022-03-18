@@ -65,11 +65,11 @@ import cn.jpush.android.api.JPushInterface;
 
 public class HomeActivity extends AppCompatActivity {
      private String url = "http://m.vcanbuy.com/#/";
-    private String hotUrl = "http://m.vcanbuy.com/#/";
-    private String hotUrl2 = "https://m.vcanbuy.com/#/";
-//    private String hotUrl = "http://47.118.71.175:8081/#/";
-//    private String url = "http://47.118.71.175:8081/#/";
-
+     private String hotUrl = "http://m.vcanbuy.com/#/";
+     private String hotUrl2 = "https://m.vcanbuy.com";
+   /*   private String hotUrl = "http://47.118.71.175:8081/#/";
+      private String url = "http://47.118.71.175:8081/#/";
+      private String hotUrl2 = "http://47.118.71.175";*/
     //private String url = "http://hk.vmall.vcanbuy.com/#/";
     private WebView webView;
 
@@ -322,6 +322,7 @@ public class HomeActivity extends AppCompatActivity {
             //目的是要让我们应用自己来加载网页，而不是交给浏览器
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                WebView.HitTestResult hitTestResult=view.getHitTestResult();
                 final Activity context = HomeActivity.this;
                 LogUtil.i("---onReceiveValue---" + url);
                 try {
@@ -404,6 +405,9 @@ public class HomeActivity extends AppCompatActivity {
                             itemId= readValueFromUrlStrByParamName(url,"object_id");
                             view.loadUrl(hotUrl+"goodsDetailAgent/"+itemId+"?platform=3");
                         }else if(url.indexOf("https://i.click.taobao.com") == 0){
+                            isTwoBack=true;
+                            return super.shouldOverrideUrlLoading(view, url);
+                        }else if(url.indexOf("https://api.stg-paymentgateway.ais.co.th") == 0){
                             isTwoBack=true;
                             return super.shouldOverrideUrlLoading(view, url);
                         }else {

@@ -64,6 +64,8 @@
             android:launchMode="singleTop"
             android:usesCleartextTraffic="true" >
 
+
+
             <!-- 要想在别的App上能成功调起App，必须添加intent过滤器 -->
             <!-- 协议部分，随便设置 -->
             <intent-filter>

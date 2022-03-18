@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -46,7 +46,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\7a9d8fff3d902f5b874dae287fa877b2\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -65,10 +65,10 @@
             ]
         },
         {
-            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/D:\\BaiduNetdiskDownload\\newVcanbuyAndroid\\newVcanbuyAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/6000b7ae6717dc0afe869071f613f659/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\f138005c8f7f670f1accd1fc4846c2fa\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/194b80457ba72054bc7bf8013729ecec/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/mac/ludong/newVcanbuyAndroid/newVcanbuyAndroid/C:\\Users\\zhusi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\7a9d8fff3d902f5b874dae287fa877b2\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
