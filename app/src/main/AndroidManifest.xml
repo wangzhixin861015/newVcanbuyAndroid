@@ -44,6 +44,11 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
+    <uses-permission android:name="com.mobileiron.CONFIG_PERMISSION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
     <application
 
         android:allowBackup="true"
@@ -53,6 +58,7 @@
         android:largeHeap="true"
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher"
+        android:networkSecurityConfig="@xml/p_file_paths"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         android:usesCleartextTraffic="true">
@@ -77,6 +83,8 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
             </intent-filter>
         </activity>
+        <activity android:name="com.vcb.vcb.photo.Customcamera" />
+        <activity android:name="com.vcb.vcb.photo.CameraReaultActivity" />
         <activity android:name=".GuideActivity" />
         <activity android:name=".SplashActivity">
             <intent-filter>
