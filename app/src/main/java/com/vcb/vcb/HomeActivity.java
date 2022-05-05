@@ -41,6 +41,7 @@ import com.google.gson.Gson;
 import com.vcb.jpush.ExampleUtil;
 import com.vcb.jpush.LocalBroadcastManager;
 import com.vcb.vcb.bean.FlashScreenUrlBean;
+import com.vcb.vcb.photo.Customcamera;
 import com.vcb.vcb.util.OnFinishListener;
 import com.vcb.vcb.util.ProgressView;
 
@@ -64,12 +65,15 @@ import cn.jpush.android.api.JPushInterface;
 
 
 public class HomeActivity extends AppCompatActivity {
-     private String url = "http://m.vcanbuy.com/#/";
-     private String hotUrl = "http://m.vcanbuy.com/#/";
-     private String hotUrl2 = "https://m.vcanbuy.com";
-   /*   private String hotUrl = "http://47.118.71.175:8081/#/";
+    /*private String url = "http://m.vcanbuy.com/#/";
+    private String hotUrl = "http://m.vcanbuy.com/#/";
+    private String hotUrl2 = "https://m.vcanbuy.com/#/";*/
+  /*   private String url = "http://vcb-h5-test.6pl.com.cn";
+     private String hotUrl = "http://vcb-h5-test.6pl.com.cn";
+     private String hotUrl2 = "https://vcb-h5-test.6pl.com.cn";*/
+      private String hotUrl = "http://47.118.71.175:8081/#/";
       private String url = "http://47.118.71.175:8081/#/";
-      private String hotUrl2 = "http://47.118.71.175";*/
+      private String hotUrl2 = "http://47.118.71.175";
     //private String url = "http://hk.vmall.vcanbuy.com/#/";
     private WebView webView;
 
@@ -254,7 +258,8 @@ public class HomeActivity extends AppCompatActivity {
         settings.setAppCacheEnabled(true);
         settings.setJavaScriptEnabled(true);
 
-
+        // 为webView添加js调用的接口（可以添加多个）
+        webView.addJavascriptInterface(new JsCallNativeInterface(), "vcanbuy");
 
         settings.setUseWideViewPort(true);
         settings.setLoadWithOverviewMode(true);
@@ -275,7 +280,7 @@ public class HomeActivity extends AppCompatActivity {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
             webView.setWebContentsDebuggingEnabled(true);
         }
-        webView.setWebChromeClient(new WebChromeClient(){
+/*        webView.setWebChromeClient(new WebChromeClient(){
 
             // For Android < 3.0
             public void openFileChooser(ValueCallback<Uri> valueCallback) {
@@ -302,7 +307,7 @@ public class HomeActivity extends AppCompatActivity {
                 showFileChooser();
                 return true;
             }
-        });
+        });*/
 
 
         webView.addJavascriptInterface(new MyJavascriptInterface(this), "injectedObject");
@@ -326,6 +331,15 @@ public class HomeActivity extends AppCompatActivity {
                 final Activity context = HomeActivity.this;
                 LogUtil.i("---onReceiveValue---" + url);
                 try {
+
+                    if(url.startsWith("https://play.google.com/store/apps/details")) {
+                        try {
+                            context.startActivity(new Intent("android.intent.action.VIEW", Uri.parse(url)));
+                        } catch (Exception e) {
+
+                        }
+                        return true;
+                    }
                     if(url.startsWith("alipays:") || url.startsWith("alipay")) {
                         try {
                             context.startActivity(new Intent("android.intent.action.VIEW", Uri.parse(url)));
@@ -414,6 +428,13 @@ public class HomeActivity extends AppCompatActivity {
                             view.loadUrl(url);
                             return true;
                         }
+                    }else {
+                        try {
+                            context.startActivity(new Intent("android.intent.action.VIEW", Uri.parse(url)));
+                        } catch (Exception e) {
+
+                        }
+                        return true;
                     }
                 }
                 catch (Exception e){
@@ -429,7 +450,10 @@ public class HomeActivity extends AppCompatActivity {
 
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
                     GangUpInvite(webView);
+                    webView.evaluateJavascript("javascript:app_vcanbuy_type('" + "app_vcanbuy" + "')", null);
                 }
+
+
                 isFirst=false;
                 // TODO Auto-generated method stub
                 super.onPageFinished(view, url);
@@ -459,6 +483,21 @@ public class HomeActivity extends AppCompatActivity {
 
 
     }
+
+
+    class JsCallNativeInterface {
+        /**
+         * js调用Android的方法
+         *
+         */
+        @JavascriptInterface
+        public void app_vcanbuy_photograph() {
+            // 处理数据
+            startActivityForResult(new Intent(HomeActivity.this, Customcamera.class),1);
+        }
+
+    }
+
     public static void launchAppDetail(Context context, String appPkg) {	//appPkg 是应用的包名
         final String GOOGLE_PLAY = "com.android.vending";//这里对应的是谷歌商店，跳转别的商店改成对应的即可
         try {
@@ -638,6 +677,22 @@ public class HomeActivity extends AppCompatActivity {
             }
             clearUploadMessage();
             return;
+        }else   if (requestCode == 1) {
+            if( resultCode == RESULT_OK ){
+                String imageUrl=data.getStringExtra("url");
+                String value=data.getStringExtra("value");
+                boolean success=data.getBooleanExtra("success",true);
+                if(success){
+                /*    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+                        webView.evaluateJavascript("javascript:app_image_result('" + url+ "')", null);
+                    }*/
+                    String searchMap=url+"searchMap?imgUrl="+imageUrl;
+                    webView.loadUrl(searchMap);
+                }
+            }else if(resultCode==-2){
+                webView.loadUrl(url+"photoHelp");
+            }
+
         }
     }
 
